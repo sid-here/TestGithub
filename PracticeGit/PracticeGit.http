@@ -1,0 +1,6 @@
+@PracticeGit_HostAddress = http://localhost:5123
+
+GET {{PracticeGit_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
